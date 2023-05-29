@@ -24,7 +24,7 @@ To see a live demonstration of the Bike Dashboard project, you can watch the fol
 
 ## Installation
 To use the Bike Dashboard project, follow these steps:
-- Download the Excel file from the repository: [Bike Excel Project](.
+- Download the Excel file from the repository: [Bike Excel Project](https://github.com/Dev-Godswill/Bike-Dashboard/blob/main/Bike%20Excel%20Project.xlsx).
 - Open the downloaded Excel file using Microsoft Excel or a compatible spreadsheet application.
 
 ## Usage
