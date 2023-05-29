@@ -20,11 +20,11 @@ The Bike Dashboard project is an Excel-based data visualization tool that provid
 6. **Dashboard Creation:** The project includes three initial dashboards that display the analyzed bike-related data.
 
 ## Credit
-To see a live demonstration of the Bike Dashboard project, you can watch the following video on YouTube: Bike Dashboard Demo
+To see a live demonstration of the Bike Dashboard project, you can watch the following video on YouTube: [Bike Dashboard Demo](https://www.youtube.com/watch?v=opJgMj1IUrc)
 
 ## Installation
 To use the Bike Dashboard project, follow these steps:
-- Download the Excel file from the repository: Download Bike Dashboard.
+- Download the Excel file from the repository: [Bike Excel Project](.
 - Open the downloaded Excel file using Microsoft Excel or a compatible spreadsheet application.
 
 ## Usage
