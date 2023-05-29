@@ -10,7 +10,7 @@
 
 ## <a name="project-description"></a> Project Description
 The Bike Dashboard project is an Excel-based data visualization tool that provides insightful metrics and visual representations of bike-related data. It demonstrates various Excel functionalities such as data cleansing, using IF and nested IF statements, creating a working sheet to preserve the original data, understanding column representations and data, removing duplicates, creating charts, and utilizing Find and Replace for data clarity.
-
+![Excel Project Dataset](https://github.com/Dev-Godswill/Bike-Dashboard/assets/99620725/7171d980-929e-47aa-af9b-38d9c41aa12c)
 **The project involves the following key steps:**
 1. **Data Cleansing:** The original data is cleaned to ensure accuracy and consistency.
 2. **Column Understanding:** Each column's meaning and the data contained within it are explained to facilitate better comprehension.
